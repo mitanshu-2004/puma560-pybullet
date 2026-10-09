@@ -2,6 +2,8 @@
 
 Type a target point and the arm moves to it, or explains why it cannot.
 
+![The arm moving to two accepted targets](docs/demo.gif)
+
 The simulation uses Python, PyBullet and NumPy.
 
 ## Running it
